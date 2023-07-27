@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-app/static/css/main.ca2b0fe8.css",
-    "main.js": "/React-app/static/js/main.9150d311.js",
+    "main.css": "/React-app/static/css/main.6d38875a.css",
+    "main.js": "/React-app/static/js/main.94e365c0.js",
     "static/media/waves-in-norways-lofoten-islands-fz.jpg": "/React-app/static/media/waves-in-norways-lofoten-islands-fz.bb85a4dbb4e14f2eb49f.jpg",
     "static/media/Untitled.jpg": "/React-app/static/media/Untitled.9e0a69fb1c58d88eb340.jpg",
     "index.html": "/React-app/index.html",
-    "main.ca2b0fe8.css.map": "/React-app/static/css/main.ca2b0fe8.css.map",
-    "main.9150d311.js.map": "/React-app/static/js/main.9150d311.js.map"
+    "main.6d38875a.css.map": "/React-app/static/css/main.6d38875a.css.map",
+    "main.94e365c0.js.map": "/React-app/static/js/main.94e365c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca2b0fe8.css",
-    "static/js/main.9150d311.js"
+    "static/css/main.6d38875a.css",
+    "static/js/main.94e365c0.js"
   ]
 }
